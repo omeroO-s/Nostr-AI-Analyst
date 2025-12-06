@@ -1,6 +1,6 @@
 # 🟣 Nostr AI Analyst (n8n + Gemini 2.0)
 
-![Nostr AI Analyst Cover](NOSTR_AI_ANALYST.png)
+![Nostr AI Analyst Cover]https://github.com/omeroO-s/Nostr-AI-Analyst/blob/main/NOSTR%20AI%20ANALYST.png
 
 ## 📖 Description
 Keeping up with the fast-paced Nostr feed (e.g., `#damus` tag) is impossible manually. This automated agent acts as a 24/7 intelligence analyst.
